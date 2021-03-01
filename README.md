@@ -8,11 +8,11 @@ KITTI data structures are should be organized as below:
     |-- datasets
       |-- KITTI
          |-- data_depth_annotated  
-               |-- 2011_xx_xx_drive_xxxx_sync
-                  |-- proj_depth  
-                       |-- groundtruth			# official G.T folder  
-               |-- ... (all drives of all days in the raw KITTI)  
-           |-- 2011_09_26			               # raw RGB data folder  
-               |-- 2011_09_26_drive_xxxx_sync  
-           |-- 2011_09_29  
-           |-- ... (all days in the raw KITTI)  
+            |-- 2011_xx_xx_drive_xxxx_sync
+               |-- proj_depth  
+                  |-- groundtruth			# official G.T folder
+            |-- ... (all drives of all days in the raw KITTI)  
+         |-- 2011_09_26			               # raw RGB data folder  
+            |-- 2011_09_26_drive_xxxx_sync
+         |-- 2011_09_29
+         |-- ... (all days in the raw KITTI)  
