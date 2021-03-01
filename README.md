@@ -5,7 +5,7 @@
 
 KITTI data structures are should be organized as below:
 
-   |-- datasets
+    |-- datasets
       |-- KITTI
          |-- data_depth_annotated  
                |-- 2011_xx_xx_drive_xxxx_sync
