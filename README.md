@@ -4,8 +4,8 @@
    Corresponding inpainted results from **'`./datasets/KITTI/data_depth_annotated/2011_xx_xx_drive_xxxx_sync/proj_depth/groundtruth/image_02`'** are should be saved in **'`./datasets/KITTI/data_depth_annotated/2011_xx_xx_drive_xxxx_sync/dense_gt/image_02`'**.
 
 * KITTI data structures are should be organized as below:  
-                  |-- datasets  
-         |-- KITTI  
+                  |-- datasets
+                         |-- KITTI
             |-- data_depth_annotated  
                |-- 2011_xx_xx_drive_xxxx_sync
                   |-- proj_depth  
